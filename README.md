@@ -1,5 +1,9 @@
 # Hands-On Linux for SQL Server DBAs — Part 2
 
+> **Install • Administer • Automate • Migrate**
+>
+> A practical hands-on workshop for SQL Server DBAs transitioning to Linux and PostgreSQL.
+
 Day 2 of the workshop series.
 
 While **Part 1** focuses on Linux fundamentals, **Part 2** takes you through deploying a real SQL Server instance on Linux and performing day-to-day DBA tasks including installation, administration, backup & restore, automation, and migration to PostgreSQL.
