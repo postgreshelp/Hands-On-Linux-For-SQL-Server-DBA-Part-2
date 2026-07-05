@@ -133,14 +133,13 @@ SS_12_Next_Steps.md
 
 ---
 
-⭐ **If this repository helped you, please consider giving it a GitHub Star.**
+## ⭐ Support This Project
 
-Your support motivates me to continue creating free, hands-on database engineering content for the community.
+If this repository helped you learn something new, I'd really appreciate your support.
 
-## About
+- ⭐ Star this repository
+- 🍴 Fork this repository
+- 💼 Share your learning experience on LinkedIn
+- 🌐 Visit https://labs.postgreshelp.com
 
-This workshop is part of the **PostgresHelp Labs** initiative.
-
-🌐 https://labs.postgreshelp.com
-
-Hands-on labs, database engineering workshops, automation, PostgreSQL, SQL Server, Linux, HA, Performance and Migration.
+Your support motivates me to continue creating free hands-on database engineering labs.
