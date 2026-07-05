@@ -4,13 +4,21 @@
 ## Today you have learned
 
 ✅ Linux Fundamentals for SQL Server DBAs
+
 ✅ SQL Server Installation on Linux
+
 ✅ SQL Server Administration
+
 ✅ Backup & Restore
+
 ✅ SQL Server Internals
+
 ✅ SQL Server vs PostgreSQL
+
 ✅ SQL Server → PostgreSQL Migration
+
 ✅ Shell Scripting
+
 ✅ Python Automation
 
 ------------------------------------------------------------------------
