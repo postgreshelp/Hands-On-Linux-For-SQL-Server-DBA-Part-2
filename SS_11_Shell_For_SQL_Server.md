@@ -1,4 +1,5 @@
 # Chapter 12 - Shell Scripting for DBAs
+> 🌐 **labs.postgreshelp.com** | Hands-on Database Engineering Labs
 
 ## Learning Objectives
 
