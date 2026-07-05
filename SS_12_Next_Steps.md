@@ -1,17 +1,17 @@
-# Congratulations!
+# 🎉 Congratulations!
 > 🌐 **labs.postgreshelp.com** | Hands-on Database Engineering Labs
 
 ## Today you have learned
 
-✓ Linux Basics
-✓ SQL Server Installation
-✓ SQL Server Administration
-✓ Backup & Restore
-✓ SQL Server Architecture
-✓ SQL Server vs PostgreSQL
-✓ SQL Server Migration
-✓ Shell Scripting
-✓ Python Automation
+✅ Linux Fundamentals for SQL Server DBAs
+✅ SQL Server Installation on Linux
+✅ SQL Server Administration
+✅ Backup & Restore
+✅ SQL Server Internals
+✅ SQL Server vs PostgreSQL
+✅ SQL Server → PostgreSQL Migration
+✅ Shell Scripting
+✅ Python Automation
 
 ------------------------------------------------------------------------
 
