@@ -22,6 +22,7 @@ If today's workshop helped you learn something new, I'd really appreciate your s
 ⭐ Star this GitHub Repository
 
 📝 Share your feedback (QR Code / Google Form)
+
 https://labs.postgreshelp.com/workshop-feedback-07-2026/
 
 💼 Share your experience on LinkedIn and tag me
